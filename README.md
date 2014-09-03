@@ -6,11 +6,11 @@ Plots windroses for given wind data. Inputs csv files. Sample csv file is given 
 Screenshots
 =============
 
-+![Figure 1](https://github.com/aladagemre/windrose/blob/master/test/plots/Nowhere_Wind-fig1.png)
-+![Figure 2](https://github.com/aladagemre/windrose/blob/master/test/plots/Nowhere_Wind-fig2.png)
-+![Figure 3](https://github.com/aladagemre/windrose/blob/master/test/plots/Nowhere_Wind-fig3.png)
-+![Figure 4](https://github.com/aladagemre/windrose/blob/master/test/plots/Nowhere_Wind-fig4.png)
-+![Figure 5](https://github.com/aladagemre/windrose/blob/master/test/plots/Nowhere_Wind-fig5.png)
++![Figure 1](https://github.com/aladagemre/windrose-drawer/blob/master/test/plots/Nowhere_Wind-fig1.png)
++![Figure 2](https://github.com/aladagemre/windrose-drawer/blob/master/test/plots/Nowhere_Wind-fig2.png)
++![Figure 3](https://github.com/aladagemre/windrose-drawer/blob/master/test/plots/Nowhere_Wind-fig3.png)
++![Figure 4](https://github.com/aladagemre/windrose-drawer/blob/master/test/plots/Nowhere_Wind-fig4.png)
++![Figure 5](https://github.com/aladagemre/windrose-drawer/blob/master/test/plots/Nowhere_Wind-fig5.png)
 
 REQUIREMENTS
 ==============
